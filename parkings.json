@@ -1,0 +1,324 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING CHARLES FAVIER",
+      "description": "** P gratuit**\nnombre de places : **0**\n---"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.871105,
+        43.934909
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING DE L'EPI",
+      "description": "** P gratuit**\nnombre de places : **45**\n---\n** * Bus vers le centre ville : * ** \nlignes 4 et 9\n** * A pied vers le centre ville : * ** 10 minutes des remparts"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.82126,
+        43.942114
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING ESPACE SCALACTA",
+      "description": "** P gratuit**\nnombre de places : **0**\n---"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.871474,
+        43.9345
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING DES ITALIENS",
+      "description": "** P+R gratuit**\nnombre de places : **1400**\n---\n** * Bus vers le centre ville : * ** \nParking surveillé\n** Navettes bus gratuites (CityZen) **\n- toutes les 4 min de 7h à 20h,\n- toutes les 20 minde 20h à minuit\nDu lundi au jeudi de 7h à 22h28,\nVendredi et samedi de 7h à 23h54\nDimanche et jours fériés de 8h à 19h30 (toutes les 30 min.)\n** * A pied vers le centre ville : * ** 4 minutes des remparts"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.822614,
+        43.953768
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING RELAIS",
+      "description": "** P+R gratuit**\nnombre de places : ****\n---"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.844892,
+        43.926046
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARLING ILE PIOT",
+      "description": "** P+R gratuit**\nnombre de places : **1100**\n---\n** * Bus vers le centre ville : * ** \nParking surveillé\n** Navettes bus gratuites **\n- Du lundi au vendredi de 7h15 à 20h34\n- Le samedi de 13h03 à 20h34\n(toutes les 10 min.)\n** * A pied vers le centre ville : * ** 13 minutes des remparts"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.793248,
+        43.950738
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Parking Avignon Courtine P7 - EFFIA",
+      "description": "** P payant**\nnombre de places : ****\n---** *Détail tarifs : * **\n[[https://www.effia.com/parking/parking-avignon-courtine-effia?vehicle=AUTO&qty=1&premium=FALSE&electric=FALSE&orderType=default|lien site web]]"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.780355,
+        43.922615
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING DE L'ORATOIRE",
+      "description": "** P payant**\nnombre de places : **675**\n---** *Détail tarifs : * **\n1/4 h : 0,40€ \nForfait soirée 4€ de 20 h à 1 h\n1 journée : 25 .50 €\n** * Bus vers le centre ville : * ** \n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.80172,
+        43.950072
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING EFFIA GARE CENTRE",
+      "description": "** P payant**\nnombre de places : **103**\n---** *Détail tarifs : * **\n[[https://www.effia.com/parking/parking-gare-davignon-centre-effia?vehicle=AUTO&qty=1&premium=FALSE&electric=FALSE&orderType=default|lien site web]]\n** * Bus vers le centre ville : * ** \n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.805706,
+        43.942297
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING GARE CENTRE",
+      "description": "** P payant**\nnombre de places : **778**\n---** *Détail tarifs : * **\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.806529,
+        43.941901
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Parking gare d'Avignon TGV (dépose minute) courte durée - EFFIA",
+      "description": "** P payant**\nnombre de places : ****\n---** *Détail tarifs : * **\n[[https://www.effia.com/parking/parking-gare-davignon-courte-duree-effia?vehicle=AUTO&qty=1&premium=FALSE&electric=FALSE&orderType=default|lien site web]]"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.784388,
+        43.921813
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Parking gare d'Avignon TGV courte durée P1 - EFFIA",
+      "description": "** P payant**\nnombre de places : ****\n---** *Détail tarifs : * **\n[[https://www.effia.com/parking/parking-gare-davignon-tgv-courte-duree-p1-effia?vehicle=AUTO&qty=1&premium=FALSE&electric=FALSE&orderType=default|lien site web]]"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.787405,
+        43.922829
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Parking gare d'Avignon TGV P2 P3 - EFFIA",
+      "description": "** P payant**\nnombre de places : ****\n---** *Détail tarifs : * **\n[[https://www.effia.com/parking/parking-gare-davignon-p2-p3-effia?vehicle=AUTO&qty=1&premium=FALSE&electric=FALSE&orderType=default|lien site web]]"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.783262,
+        43.921869
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Parking gare d'Avignon TGV P4 - EFFIA",
+      "description": "** P payant**\nnombre de places : ****\n---** *Détail tarifs : * **\n[[https://www.effia.com/parking/parking-gare-davignon-tgv-p4-effia?vehicle=AUTO&qty=1&premium=FALSE&electric=FALSE&orderType=default|lien site web]]"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.783969,
+        43.920553
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Parking gare d'Avignon TGV P5 - EFFIA",
+      "description": "** P payant**\nnombre de places : ****\n---** *Détail tarifs : * **\n[[https://www.effia.com/parking/parking-gare-davignon-tgv-p5-effia?vehicle=AUTO&qty=1&premium=FALSE&electric=FALSE&orderType=default|lien site web]]"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.788579,
+        43.9206
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Parking gare d'Avignon TGV P6 - EFFIA ",
+      "description": "** P payant**\nnombre de places : ****\n---** *Détail tarifs : * **\n[[https://www.effia.com/parking/parking-gare-davignon-p6-effia?vehicle=AUTO&qty=1&premium=FALSE&electric=FALSE&orderType=default|lien site web]]"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.781975,
+        43.922568
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING JEAN JAURES",
+      "description": "** P payant**\nnombre de places : **715**\n---** *Détail tarifs : * **\n[[https://fr.parkindigo.com/parking/avignon-84000/jean-jaures-84000300|lien site web]]\n** * Bus vers le centre ville : * ** \n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.805669,
+        43.94331
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING LES HALLES",
+      "description": "** P payant**\nnombre de places : **580**\n---** *Détail tarifs : * **\n1/4 h : 0,40€ - 1 h : 1,60 €\nForfait soirée: 2 € de 20 h à 1 h \nTarif nuit : 5 € de 20 h à 8 h \n1 journée : 16.20 €\n** * Bus vers le centre ville : * ** \n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.81017,
+        43.947402
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING PALAIS DES PAPES",
+      "description": "** P payant**\nnombre de places : **825**\n---** *Détail tarifs : * **\n1/4 h : 0,40€ \nForfait soirée 3 € de 20 h à 1 h \nTarif nuit : 6 € de 20 h à 8 h\n1 journée : 16,20 €\n** * Bus vers le centre ville : * ** \n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.805979,
+        43.95262
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING ST CHARLES",
+      "description": "** P payant**\nnombre de places : **190**\n---** *Détail tarifs : * **\n1 h : 1,40 €\n1 journée : 9,60 €\n** * Bus vers le centre ville : * ** \n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.802569,
+        43.94232
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING DE L'OULLE",
+      "description": "** Horodateurs**\nnombre de places : **530**\n---** *Détail tarifs : * **\nLundi au samedi 9 h -12h / 14h - 19 h\nTarif annuel (sauf juillet août) : Limitée à 5 h 01 Forfait 4 h Gratuite\n5e h 0,50€ les 1/4 h\nTarif Juillet août \n0,20 € les 1/4 h jusqu’à 3 h, et 4e heure 1€ le 1/4\n** * Bus vers le centre ville : * ** \n\n** * A pied vers le centre ville : * ** 2 minutes des remparts"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.800048,
+        43.948487
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING JACQUES TATI",
+      "description": "** Horodateurs**\nnombre de places : **110**\n---** *Détail tarifs : * **\nLundi au samedi 9 h -12h / 14h - 19 h\nTarif annuel (sauf juillet août) : Limitée à 5 h 01 Forfait 4 h Gratuite\n5e h 0,50€ les 1/4 h\nTarif Juillet août \n0,20 € les 1/4 h jusqu’à 3 h, et 4e heure 1€ le 1/4\n** * Bus vers le centre ville : * ** \n\n** * A pied vers le centre ville : * ** 6 minutes des remparts"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.816829,
+        43.943731
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PARKING MERINDOL",
+      "description": "** Horodateurs**\nnombre de places : **110**\n---** *Détail tarifs : * **\nLundi au samedi 9 h -12h / 14h - 19 h\nTarif annuel (sauf juillet août) : Limitée à 5 h 01 Forfait 4 h Gratuite\n5e h 0,50€ les 1/4 h\nTarif Juillet août \n0,20 € les 1/4 h jusqu’à 3 h, et 4e heure 1€ le 1/4\n** * Bus vers le centre ville : * ** \n\n** * A pied vers le centre ville : * ** 2 minutes des remparts"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.797079,
+        43.943332
+      ]
+    }
+  }
+]
