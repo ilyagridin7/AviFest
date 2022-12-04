@@ -1,6 +1,6 @@
 # AviFest
 
-kheira ouzaa+
-Zaghar Rhassane++
-Gridin Ilya+
-Verdon Dorian+
+Kheira Ouzaa
+Zaghar Rhassane
+Gridin Ilya
+Verdon Dorian
