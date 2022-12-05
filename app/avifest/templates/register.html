@@ -1,0 +1,32 @@
+{% extends 'container.html' %}
+
+{% load static %}
+
+{% block content %}
+<div class="top">
+    <h2>Inscription</h2>
+</div>
+
+<form action="" method="post">
+    {% csrf_token %}
+    <div class="group-input">
+        <input type="text" name="mail" placeholder="Email">
+        <input type="password" name="password" placeholder="Mot de passe">
+        <input type="confirm" name="confirm" placeholder="Confirmation">
+        <input type="text" name="nom" placeholder="Nom">
+        <input type="text" name="prenom" placeholder="Prénom">
+        <input type="text" name="phone" placeholder="Téléphone">
+        <div class="gender">
+            <label for="female">Femme</label>
+            <input type="radio" name="gender" id="female" value="0" checked>
+            <label for="male">Homme</label>
+            <input type="radio" name="gender" id="male" value="1">
+        </div>
+    </div>
+    <div class="group-btn">
+        <div class="swap-log"><a href="{% url "login" %}">Page de connexion</a></div>
+        <button class="btn" type="submit">S'inscrire</button>
+        <div class="swap-log"><a href="{% url "index" %}">Retour</a></div>
+    </div>
+</form>
+{% endblock %}
