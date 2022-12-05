@@ -1,0 +1,101 @@
+id_show,nom,type,artist,nb_place,id_location
+1,Place de l'Orangerie de Sauveterre ,performance,Assia,354,1
+2,Église de Malaucène ,indiscipline,Elise,260,2
+3,Parc de Champfleury (Palais de la foire ou Paul Vidal),spectacle,Juliette,324,3
+4,Doms (théâtre des),théatre,Lou,278,4
+5,Golovine (théâtre),danse,Louka,201,5
+6,Amants (théâtre des),Installation photographique,Lya,189,6
+7,Galerie Gérard Guerre - Hôtel de Laurens,théatre,Mathilde,309,7
+8,Tache d'encre (la),performance,Nassim,379,8
+9,Village du off,indiscipline,Wassim,192,9
+10,Maison des jeunes et de la culture de la Croix des Oiseaux ,spectacle,Alexandre,399,10
+11,Maison des jeunes et de la culture de la Croix des Oiseaux ,théatre,Célia,306,11
+12,Bourse du Travail,danse,Imrane,370,12
+13,Luna (théâtre la),Installation photographique,Julia,355,13
+14,Entrepôt (l'),théatre,Lenny,204,14
+15,Espace du pont d'Avignon,performance,Lyna,276,15
+16,Fabrik' théâtre,indiscipline,Malak,228,16
+17,Observance (théâtre de l'),spectacle,Mathis,164,17
+18,Arts et Loisirs,théatre,Milan,360,18
+19,Lucioles (théâtre des),danse,Nassim,368,19
+20,Ateliers d'Amphoux (les),Installation photographique,Nino,160,20
+21,La Lanterne d'Ananelle,théatre,Noham,279,21
+22,Passage (théâtre du),performance,Romy,222,22
+23,Grand petit théâtre (le),indiscipline,Sarah,252,23
+24,Cabestan (théâtre le),spectacle,Théo,365,24
+25,La FabricA,théatre,Youssef,202,25
+26,Castelet (théâtre le),danse,Amira,238,26
+27,Caserne des pompiers,Installation photographique,Anas,383,27
+28,Petite caserne (la),théatre,Andrea,364,28
+29,Salle Benoit XII,performance,Baptiste,261,29
+30,Benoit XII (théâtre),indiscipline,Emy,311,30
+31,BMW Mini Foch Automobiles Avignon ,spectacle,Ilyes,263,31
+32,Kabarouf Barthelasse,théatre,Jeanne,243,32
+33,Notre-Dame (théâtre)  ,danse,Kassim,393,33
+34,Condition-des-soies,Installation photographique,Lenny,234,1
+35,Chapeau d'ébène (théâtre),théatre,Lily,400,2
+36,Arrache-cœur (théâtre l’),performance,Margot,224,3
+37,Présence Pasteur,indiscipline,Nino,389,4
+38,Centre (théâtre du) ,spectacle,Noham,198,5
+39,Étincelle (théâtre de l'),théatre,Nolan,259,6
+40,Laurette (théâtre),danse,Nour,250,7
+41,Lycée Aubanel,Installation photographique,Sara,396,8
+42,Alizé ,théatre,Anaïs,233,9
+43,Mon Bar,performance,Capucine,261,10
+44,Ange (théâtre de l'),indiscipline,Jenna,229,11
+45,Carnot (théâtre),spectacle,Jessim,388,12
+46,Salle des fêtes frédéric Mistral de Sarrians ,théatre,Lily,337,13
+47,Isle 80 (théâtre de l'),danse,Lorenzo,338,14
+48,Buffon (théâtre),Installation photographique,Léna,186,15
+49,Parenthèse (la),théatre,Maël,245,16
+50,Chapelle Saint-Louis,performance,Nour,169,17
+51,Chapelle Saint-Louis,indiscipline,Pauline,209,18
+52,Hivernales centre de développement chorégraphique,spectacle,Safa,350,19
+53,Pixel Avignon,théatre,Adrien,217,20
+54,Oulle  (théâtre de l'),danse,Arthur,203,21
+55,Rotonde (théâtre de la),Installation photographique,Axel,358,22
+56,Petit chaudron (le),théatre,Ilyes,246,23
+57,Bar Léon,performance,Jassim,239,24
+58,Vieux balancier,indiscipline,Lily,365,25
+59,Manufacture (la),spectacle,Livia,340,26
+60,Grenier à sel,théatre,Louka,372,27
+61,Temple Saint-Martial,danse,Léandre,322,28
+62,Espace Saint-Martial,Installation photographique,Margaux,180,29
+63,Médiathèque Ceccano,théatre,Marius,311,30
+64,Club Léo Lagrange (devenu Maison du théâtre pour enfants),performance,Maxime,252,31
+65,Club Léo Lagrange,indiscipline,Pauline,296,32
+66,Maison du théâtre pour enfants - Monclar,spectacle,Timéo,155,33
+67,Forum (le),théatre,Valentine,286,1
+68,Chariot-Théâtre,danse,Walid,273,2
+69,Chapelle du Verbe incarné,Installation photographique,Antoine,254,3
+70,Cinévox,théatre,Ayoub,313,4
+71,Cour des Notaires,performance,Benjamin,371,5
+72,Au bout là-bas (théâtre),indiscipline,Gabin,270,6
+73,Petit Louvre - Van Gogh,spectacle,Imran,198,7
+74,Église saint agricol,théatre,Ines,257,8
+75,Église Saint-Agricol,danse,Julia,305,9
+76,Porte Saint-Michel (théâtre de la),Installation photographique,Kylian,219,10
+77,Girasole (théâtre),théatre,Margot,217,11
+78,Au coin de la lune (théâtre),performance,Mathéo,208,12
+79,Célimène (le),indiscipline,Maxence,315,13
+80,Al  Andalus (théâtre),spectacle,Nina,322,14
+81,Cinéma le Rio,théatre,Noé,385,15
+82,Artebar théâtre,danse,Sara,171,16
+83,Bar du Centre,Installation photographique,Victor,187,17
+84,Alibi (l'),théatre,Éthan,388,18
+85,Atelier florentin (théâtre de l'),performance,Aya,309,19
+86,Pôle culturel Camille Claudel de Sorgues,indiscipline,Camélia,268,20
+87,Albatros (l'),spectacle,Gabin,334,21
+88,Palais du Roure,théatre,Manel,252,22
+89,Conservatoire du Grand Avignon,danse,Maëlys,231,23
+90,Conservatoire du Grand Avignon,Installation photographique,Maïssa,231,24
+91,Petit Louvre - Templiers,théatre,Pablo,194,25
+92,Pandora ,performance,Rose,373,26
+93,Arto,indiscipline,Alice,173,27
+94,Salle roquille,spectacle,Amir,174,28
+95,Espace Alya,théatre,Bastien,359,29
+96,Au magasin,danse,Emy,354,30
+97,À l'arrache (théâtre),Installation photographique,Faustine,239,31
+98,Chapelle de l'Oratoire ,théatre,Inaya,150,32
+99,Brunes (théâtre des),performance,Marie,235,33
+100,Foyer des Jeunes Travailleurs,indiscipline,Mathilde,375,1

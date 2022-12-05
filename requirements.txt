@@ -2,3 +2,4 @@ pyspark
 pymongo
 pandas
 faker
+django
