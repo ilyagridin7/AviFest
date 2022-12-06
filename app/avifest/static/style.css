@@ -80,10 +80,7 @@ nav {
 }
 
 nav ul {
-    margin: 0;
-    padding: 0;
     display: flex;
-    list-style: none;
 }
 
 nav ul li {
@@ -98,4 +95,46 @@ nav ul li {
 
 nav ul li:not(:last-child) {
     border-right: 1px solid black;
+}
+
+.sort-by {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 20px 0;
+    row-gap: 10px;
+}
+
+.sort-by li {
+    width: 160px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 1.3rem;
+    background-color: #49496C;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 30px;
+}
+
+.list li {
+    width: 70%;
+    height: 60px;
+    font-size: 1.4rem;
+    background-color: #49496C;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 1px 1px 1px black;
+    border-radius: 20px;
+
 }

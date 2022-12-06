@@ -3,5 +3,22 @@
 {% load static %}
 
 {% block content %}
-
+<ul class="sort-by">
+    <li>Par catégorie</li>
+    <li>Par artiste</li>
+    <li>Par date</li>
+</ul>
+<ul class="list">
+    {% for category in categories %}
+    <li>{{ category.type|title }}</li>
+    {% endfor %}
+</ul>
+{% comment %} <ul class="list">
+    {% for artist in artists %}
+    <li>{{ artist.firstname|add:' '|add:artist.lastname }}</li>
+    {% endfor %}
+</ul>
+<ul class="list"> {% endcomment %}
+    
+</ul>
 {% endblock %}

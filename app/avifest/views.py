@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpRequest
-from avifest.utils import get_db_handle
+from utils import get_db_handle
 
 
 def index(request: HttpRequest):
@@ -20,7 +20,13 @@ def home(request: HttpRequest):
     return render(request, 'home.html', context={'navbar': True})
 
 def programme(request: HttpRequest):
-    return render(request, 'programme.html', context={'navbar': True})
+    db = get_db_handle()
+    artist_collection = db['artists']
+    category_collection = db['category']
+    artists = artist_collection.find()
+    categories = category_collection.find()
+    
+    return render(request, 'programme.html', context={'navbar': True, 'artists': artists, 'categories': categories})
 
 def festival(request: HttpRequest):
     return render(request, 'festival.html', context={'navbar': True})

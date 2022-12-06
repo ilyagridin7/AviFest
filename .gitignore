@@ -1,2 +1,5 @@
 env
 *.graphml
+.env
+cache
+__pycache__

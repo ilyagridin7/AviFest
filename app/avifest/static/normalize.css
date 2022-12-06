@@ -263,6 +263,12 @@
   textarea {
     overflow: auto;
   }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
   
   /**
    * 1. Add the correct box sizing in IE 10.
